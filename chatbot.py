@@ -8,7 +8,7 @@ def chatbot():
             print("Chatbot: Hello! How can I help you today?")
         
         elif "your name" in user_input:
-            print("Chatbot: I'm Chatbot 101, your virtual assistant.")
+            print("Chatbot: I'm Chatbot CODSOFT, your virtual assistant.")
 
         elif "how are you" in user_input:
             print("Chatbot: I'm just a bunch of code, but I'm doing great! How about you?")
