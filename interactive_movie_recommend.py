@@ -63,7 +63,7 @@ def main():
         elif user_input.lower() == "what can you do":
             print("\n🤖 I can recommend movies based on genre similarity. Try typing a movie name!")
         elif user_input.lower() == "who made you":
-            print("\n🧠 I was coded by Saksham (with a little help from ChatGPT)!")
+            print("\n🧠 I was coded by Saksham !")
         elif user_input == "":
             print("⚠️ Please enter a movie title or command. Type 'help' if you're unsure.")
         else:
