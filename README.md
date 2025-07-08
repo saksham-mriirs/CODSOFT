@@ -1,5 +1,5 @@
 # CODSOFT
-ARTIFICIAL INTELLIGENCE
+
 During my internship, I developed multiple Python-based mini-projects that helped me build practical programming skills, improve logical thinking, and gain confidence in problem-solving. The key projects I worked on include a chatbot, a movie recommendation system, and a Tic-Tac-Toe game.
 
 1. Chatbot (Rule-Based Conversation System)
